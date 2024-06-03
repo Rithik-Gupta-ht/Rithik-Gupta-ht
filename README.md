@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rithikgupta27&label=Profile%20views&color=0e75b6&style=flat" alt="Rithik Gupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rithik-Gupta-ht&label=Profile%20views&color=0e75b6&style=flat" alt="Rithik Gupta" /> </p>
 <h1 align="center">Hi 👋, Rithik Gupta here!</h1>
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 </br>
 </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rithikgupta27" alt="Rithikgupta27" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rithik-Gupta-ht" alt="Rithik-Gupta-ht" /></a> </p>
 
 - JAVA
 - WEB Development
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - FullStack
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithikgupta27&show_icons=true&locale=en&layout=compact" alt="Rithikgupta27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithik-Gupta-ht&show_icons=true&locale=en&layout=compact" alt="Rithik-Gupta-ht" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rithikgupta27&show_icons=true&locale=en" alt="Rithikgupta27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rithik-Gupta-ht&show_icons=true&locale=en" alt="Rithik-Gupta-ht" /></p>
